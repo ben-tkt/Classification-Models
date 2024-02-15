@@ -52,7 +52,7 @@
 1. Download the dataset and .ipynb file.
 2. Open the .ipynb file using Google Colaboratory or jupyter notebook.
 3. Read through the project context, objective, data description and dictionary.
-4. Try and run the code in the .ipynb notebook cell by cell, to understand what each line of code does.
+4. Try and run the code in the .ipynb notebook, cell by cell. As the codes are well-commented, try to understand what each line of code does.
 5. Use my code as a reference if you're stucked (My codes are trustworthy, they have been reviewed and I obtained a full score 🥇)
 
 **Thanks for reaching the end!**
